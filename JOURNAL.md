@@ -147,3 +147,52 @@ Here I have **removed the 3d printing cost** and built the circuit for the proje
 
   
 
+# 3/8/2026 - Github polish and design verify   
+
+_Time spent: 3.0h_  
+
+**Github**
+
+I have updated all of the things on [GitHub](https://github.com/Abrar-Al-Razee/Wild-Fire-Prediction-Device/blob/main/README.md)
+
+![Github](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDc1LCJwdXIiOiJibG9iX2lkIn19--878d881c3e683928b25070b75cd249ca311fd727/Screenshot%202026-03-08%20at%203.53.50%E2%80%AFAM.png)
+
+
+
+**Design verify**
+
+Here the box is made by taking measures of the circuit. At first i have taken the [circuit dxf](https://github.com/Abrar-Al-Razee/Wild-Fire-Prediction-Device/blob/main/Circuit/PCB_wildfire-prediction-system.dxf) file for an exact measurement
+
+![Circuit](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDE2LCJwdXIiOiJibG9iX2lkIn19--8d698ff3dc6662d153d1a1157eebe0212138b1dc/Screenshot%202026-03-05%20at%202.38.44%E2%80%AFAM.png)
+
+Here is the size of the box (total 163mm). Here is the circuit about 101mm, and the 2x battery case size is [40mm x 75mm](https://www.duino.lk/product/battery-holder-18650-battery-storage-case-for-2x18650/?srsltid=AfmBOopqLgQ3yBjFt65BRtZRmc68i-LsAKCPNDhh01FpCtJoHyFVysyf). and now left 40+101 = 141-163 = 22mm. which is for the space 
+
+![circuit](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDE5LCJwdXIiOiJibG9iX2lkIn19--d0e3c82b31bd5a04911365150e577bcca1b10508/Screenshot%202026-03-08%20at%203.15.23%E2%80%AFAM.png)
+
+**Step By Step 3d Modeling**
+
+![3d desinging](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDE4LCJwdXIiOiJibG9iX2lkIn19--e23ee8fec2ac6dd99e79555e67cbe5dbff414034/Screenshot%202026-03-06%20at%204.15.38%E2%80%AFPM.png)
+
+Designing a side of the box, there the MICS sensor and power switch will be. The mics sensor size is 27mm X 20mm and the dc switch size is 13 mm × 7 mm × 10 mm and the barrel zack size is 10mm X 12mm
+
+![side](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDI3LCJwdXIiOiJibG9iX2lkIn19--b0dffad8799d72abb80ec07fdeafb4a62daf264b/Screenshot%202026-03-08%20at%203.32.08%E2%80%AFAM.png)
+
+In the other size, the measures for the PM2.5 sensor and a whole, so I can take the wire for the soil moisture sensor.
+
+![other side](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDMyLCJwdXIiOiJibG9iX2lkIn19--1e19ec4441e1a55e69eb5e0988ad721423cda379/Screenshot%202026-03-08%20at%203.40.07%E2%80%AFAM.png)
+
+Cutting and make a proper space for the sensors
+
+![cutting unwanted thing](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDQ2LCJwdXIiOiJibG9iX2lkIn19--058a742776b8f543c3d54666a324cf631d9f7d1f/Screenshot%202026-03-08%20at%203.42.53%E2%80%AFAM.png)
+
+Making the top
+
+![Making the top](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDU3LCJwdXIiOiJibG9iX2lkIn19--5a44571024e4d450fe8ab11f727694f29a4e3e54/Screenshot%202026-03-08%20at%203.44.29%E2%80%AFAM.png)
+
+
+A Complete View and the full work breakdown in [.f3d file](https://github.com/Abrar-Al-Razee/Wild-Fire-Prediction-Device/blob/main/3d%20Designing/Wildfire%20prediction%20Device%20Full.f3d) and also all the printable [.stl files](https://github.com/Abrar-Al-Razee/Wild-Fire-Prediction-Device/tree/main/3d%20Designing/STL)
+
+![A Complete View](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NDU4LCJwdXIiOiJibG9iX2lkIn19--096748f38bca2eaa74e73c7120eb0e1545ac4365/Screenshot%202026-03-08%20at%203.45.51%E2%80%AFAM.png)
+
+  
+
