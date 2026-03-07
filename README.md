@@ -10,7 +10,9 @@ Here I made the Bill of Materials and other things.
 https://docs.google.com/spreadsheets/d/1B_3vjF6hnGuylOTRCjDW6Ru4Rz02-M3GZ2_8QcCnpDA/edit?usp=sharing
 
 
-<img width="1776" height="1252" alt="image" src="https://github.com/user-attachments/assets/8bbc37cd-6ac8-4219-a0f1-3b28bcfe5c1d" />
+<img width="2000" height="1218" alt="image" src="https://github.com/user-attachments/assets/e43afd5c-c263-4563-81c6-ac48a48265a0" />
+
+
 <img width="2000" height="1237" alt="image" src="https://github.com/user-attachments/assets/c53f3177-d1ab-435f-9439-1d0958a26f87" />
 
 <img width="2000" height="1231" alt="image" src="https://github.com/user-attachments/assets/b8394fb9-0e26-4182-922e-34863f0f62bc" />
